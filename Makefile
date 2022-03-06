@@ -1,4 +1,4 @@
-ARCH=$(shell uname -m)
+
 
 TARGET := hello
 TARGET_BPF := $(TARGET).bpf.o
